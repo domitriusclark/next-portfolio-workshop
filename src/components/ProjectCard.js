@@ -7,6 +7,7 @@ import {
   Image,
   HStack,
 } from '@chakra-ui/react';
+
 import { FaGithub } from 'react-icons/fa';
 
 export default function ProjectCard({ image, name, link }) {
